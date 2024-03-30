@@ -2,11 +2,12 @@
 
 __Mitä uutta opin osiossa? Miten voisin hyödyntää oppimaani käytännössä?__
 
-Kirjoita tähän vastauksesi
+Opin hajautetun Gitin käytön perusteet, kuten haarojen luomisen, etärepojen seuraamisen ja muutosten yhdistämisen
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
-Kirjoita tähän vastauksesi
+Haarautuminen ja yhdistäminen                                     
+
 
 ## Osiossa käyttämäni Git-komennot
 
