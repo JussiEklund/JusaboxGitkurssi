@@ -15,3 +15,5 @@ Lyhyt selvitys: Tässä repositoriossa on oppimispäiväkirja 2 -projekti Git-ve
 
 [Oppimispäiväkirja 2](https://github.com/JussiEklund/JusaboxGitkurssi/tree/paivakirja2)
 >>>>>>> 28028b03992343b448c84ac97fe9dd5b221ef9dd
+
+https://github.com/JussiEklund/JusaboxGitkurssi/tree/master
